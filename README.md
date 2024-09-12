@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Ivan
+# ¡Hola! 👋 Soy un honbre transgenero apasionado
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Ivan-8a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
