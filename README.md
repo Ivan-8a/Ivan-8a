@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Ivan
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Ivan-8a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
 
-Soy un **[desarrollador/ingeniero de software]** con experiencia en **[tecnologías principales]**. Mi pasión es **[describe tu pasión profesional o tecnológica]** y me gusta trabajar en **[menciona áreas en las que te especializas]**.
+Soy un **[desarrollador/ingeniero de software]** con experiencia en **[Javascript, html, csss y react]**. Me gusta trabajar en el desarrollo front-end.
 
 ---
 
@@ -12,28 +12,20 @@ Soy un **[desarrollador/ingeniero de software]** con experiencia en **[tecnolog�
 
 | **Lenguajes**   | **Frameworks/Bibliotecas** | **Herramientas**       |
 |-----------------|----------------------------|------------------------|
-| JavaScript      | React, Vue.js               | Git, GitHub            |
-| TypeScript      | Node.js, Express            | Docker, Kubernetes     |
-| Python          | Flask, Django               | Vercel, Firebase       |
-| SQL, NoSQL      | MongoDB, PostgreSQL         | CI/CD, Jenkins         |
+| JavaScript      | React                       | Git, GitHub            |
+| HTML            | Node.js, Express            | Vercel                 |
+| CSS             |                             | Firebase               |
+| JSX             |                             | Vite                   |
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### [Proyecto 1: Nombre del Proyecto](https://github.com/tu-usuario/proyecto1)
+### [Proyecto 1: Todolist-PWA-React](https://github.com/tu-usuario/proyecto1)
 Descripción breve del proyecto, qué tecnologías utilizaste, y cuál fue el objetivo principal. Si el proyecto está desplegado, puedes incluir un enlace directo.
 
-- **Tecnologías:** [React, Node.js, Express, MongoDB]
-- **Características:** [Funcionalidad clave 1, Funcionalidad clave 2, etc.]
-
-### [Proyecto 2: Nombre del Proyecto](https://github.com/tu-usuario/proyecto2)
-Otra descripción breve de un proyecto importante o interesante. Puedes mencionar el impacto o el desafío técnico que enfrentaste.
-
-- **Tecnologías:** [Python, Django, PostgreSQL]
-- **Características:** [Funcionalidad clave 1, Funcionalidad clave 2, etc.]
-
----
+- **Tecnologías:** [React, Node.js, Firebase, Service worker]
+- **Características:** [Lista de tareas funcional con persistencia en local storage, cache y conexion con firebase, --- Inicio de session con firebase autentication con filtrado de tareas segun el usuario conectado]
 
 ## 📊 Estadísticas de GitHub
 
@@ -43,18 +35,10 @@ Otra descripción breve de un proyecto importante o interesante. Puedes menciona
 ---
 
 ## 💼 Experiencia Profesional
-
-- **[Empresa 1]** *(Fecha Inicio - Fecha Fin)*
-  - Descripción breve de tus responsabilidades, tecnologías usadas y logros clave.
-
-- **[Empresa 2]** *(Fecha Inicio - Fecha Fin)*
-  - Breve descripción similar.
-
----
-
+Proximamente
 ## 📫 Contacto
 
-- Correo: [tucorreo@gmail.com](mailto:tucorreo@gmail.com)
+- Correo: [ivans8asss@gmail.com](ivan:ivans8asss@gmail.com)
 - LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
 - Twitter: [@tu-usuario](https://twitter.com/tu-usuario)
 
