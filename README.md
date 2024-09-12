@@ -37,8 +37,8 @@ Otra descripción breve de un proyecto importante o interesante. Puedes menciona
 
 ## 📊 Estadísticas de GitHub
 
-![Tu nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Tu nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivan-8a&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-8a&layout=compact&theme=radical)
 
 ---
 
