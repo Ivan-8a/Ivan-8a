@@ -1,71 +1,50 @@
-# 🧑‍💻 [Tu Nombre] - Portafolio
-
-¡Hola! Soy [Tu Nombre], un [tu profesión o especialidad, e.g., desarrollador de videojuegos / estudiante de diseño de videojuegos] apasionado por [tus intereses principales, e.g., la creación de experiencias interactivas y fomentar hábitos saludables mediante el diseño de videojuegos innovadores].
-
----
+# ¡Hola, soy [Tu Nombre] 👋
 
 ## 🚀 Sobre mí
+Desarrollador apasionado por la tecnología y el código abierto. Me encanta aprender nuevas tecnologías y compartir conocimientos con la comunidad.
 
-🎮 Creador del proyecto **[nombre del proyecto]**, un RPG diseñado para fomentar hábitos saludables inspirado en teorías como el Modelo de Comportamiento de Fogg y la Teoría de la Autodeterminación.  
-💡 Apasionado por la intersección de la tecnología, la narrativa y la psicología para generar impacto positivo.  
-📚 Actualmente aprendiendo [tecnologías o conceptos en los que estás trabajando, e.g., diseño de mecánicas de juego basadas en Godot].  
+[![GitHub followers](https://img.shields.io/github/followers/tuusuario?label=Follow&style=social)](https://github.com/tuusuario)
+[![Twitter: tuusuario](https://img.shields.io/twitter/follow/tuusuario?style=social)](https://twitter.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
 
----
+### 🛠️ Tecnologías y Herramientas
 
-## 🛠️ Habilidades
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-- **Lenguajes de programación**: [ejemplo: Python, GDScript, JavaScript]
-- **Motores de juego**: [ejemplo: Godot, Unity]
-- **Herramientas de diseño**: [ejemplo: Figma, Photoshop, Blender]
-- **Desarrollo de videojuegos**:
-  - Diseño de mecánicas de juego
-  - Narrativa interactiva
-  - Gamificación y diseño centrado en el usuario
-- **Metodologías**: Modelo de Comportamiento de Fogg, Teoría de la Autodeterminación, Design Thinking
+### 📊 Mis Estadísticas de GitHub
 
----
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
-## 🌟 Proyectos destacados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
-### 🎮 [Nombre del Proyecto 1]
-**Descripción**: [Breve descripción del proyecto, e.g., Un RPG diseñado para fomentar hábitos saludables mediante una narrativa lineal y desafíos interactivos.]  
-**Tecnologías utilizadas**: [ejemplo: Godot, GDScript, Blender]  
-**Enlace**: [GitHub Repository](https://github.com/tuusuario/proyecto1)
+### 🌟 Proyectos Destacados
 
-### 🧩 [Nombre del Proyecto 2]
-**Descripción**: [Breve descripción del proyecto, e.g., Una herramienta para visualizar el progreso de los hábitos en tiempo real.]  
-**Tecnologías utilizadas**: [ejemplo: Python, Flask, React]  
-**Enlace**: [GitHub Repository](https://github.com/tuusuario/proyecto2)
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=radical)](https://github.com/tuusuario/proyecto1)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=radical)](https://github.com/tuusuario/proyecto2)
 
----
+### 🎯 Objetivos 2024
+- [ ] Contribuir más a proyectos open source
+- [ ] Aprender nuevas tecnologías como [tecnología]
+- [ ] Desarrollar [número] proyectos personales
+- [ ] Mejorar mis habilidades en [habilidad]
 
-## 📈 Experiencia
+### 📫 Contacto
 
-### [Tu Rol o Puesto] - [Nombre de la Empresa o Proyecto]
-**Fecha**: [e.g., Enero 2023 - Presente]  
-- [Responsabilidad 1, e.g., Desarrollo de mecánicas de juego para proyectos educativos interactivos.]  
-- [Responsabilidad 2, e.g., Diseño e implementación de sistemas de recompensa para fomentar el compromiso del usuario.]  
+- 💼 LinkedIn: [tu perfil](https://linkedin.com/in/tuusuario)
+- 🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)
+- ✉️ Email: [tu@email.com](mailto:tu@email.com)
 
-### [Otro Rol o Experiencia]
-**Fecha**: [e.g., Junio 2022 - Diciembre 2022]  
-- [Responsabilidad 1]  
-- [Responsabilidad 2]  
-
----
-
-## 🎯 Objetivos
-
-- Publicar [nombre del proyecto] como una herramienta accesible para mejorar los hábitos de los usuarios.  
-- Seguir explorando cómo los videojuegos pueden cambiar vidas positivamente.  
+### 👾 Fun facts
+- 🎮 Me encanta [hobby]
+- 📚 Actualmente estoy leyendo [libro]
+- ☕ No puedo vivir sin café
 
 ---
-
-## 📬 Contáctame
-
-- **Email**: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)  
-- **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- **Portafolio personal**: [Tu sitio web o portafolio]  
-- **GitHub**: [github.com/tuusuario](https://github.com/tuusuario)
-
-¡Gracias por visitar mi portafolio!
-
+⭐️ De [tuusuario](https://github.com/tuusuario)
