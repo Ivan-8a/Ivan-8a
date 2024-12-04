@@ -15,6 +15,8 @@ En mi trayectoria académica, he adquirido conocimientos en [HTML, CSS, JavaScri
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
@@ -22,10 +24,13 @@ En mi trayectoria académica, he adquirido conocimientos en [HTML, CSS, JavaScri
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-8a&layout=compact&theme=radical)
 
 ### 🌟 Proyectos Destacados
-[![Estado](https://img.shields.io/badge/Estado-Terminado-success)](https://github.com/Ivan-8a/PWA-React-Todolist) 
+[![Estado](https://img.shields.io/badge/Estado-Terminado-success)](https://github.com/Ivan-8a/PWA-React-Todolist)
+
 [![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=PWA-React-Todolist&theme=radical)](https://pwa-react-todolist.vercel.app/)
 
-[![Estado](https://img.shields.io/badge/Estado-En_desarrollo-yellow)](https://github.com/Ivan-8a/PWA-React-Todolist) 
+
+[![Estado](https://img.shields.io/badge/Estado-En_desarrollo-yellow)](https://github.com/Ivan-8a/PWA-React-Todolist)
+ 
 [![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=generador-de-plantillas&theme=radical)](https://github.com/Ivan-8a/generador-de-plantillas) 
 
 ### 🎯 Objetivos 2024
@@ -33,13 +38,9 @@ En mi trayectoria académica, he adquirido conocimientos en [HTML, CSS, JavaScri
 
 ### 📫 Contacto
 
-- 💼 LinkedIn: [ivan-santoyo-ochoa](www.linkedin.com/in/ivan-santoyo-ochoa)
+- 💼 LinkedIn: [ivan-santoyo-ochoa](https://www.linkedin.com/in/ivan-santoyo-ochoa)
 - ✉️ Email: [ivans8asss@gmail.com](mailto:ivans8asss@gmail.com)
 
-### 👾 Fun facts
-- 🎮 Me encanta [hobby]
-- 📚 Actualmente estoy leyendo [libro]
-- ☕ No puedo vivir sin café
 
 ---
-⭐️ De [tuusuario](https://github.com/tuusuario)
+⭐️ De [Ivan-8a](https://github.com/Ivan-8a)
