@@ -35,7 +35,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 ###  Featured Projects
 
-#### 🔒 **AlterEgo | LMS Platform (MVP)**
+####  **AlterEgo | LMS Platform (MVP)**
 > *A custom course platform focusing on UX and monetization.*
 
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -49,11 +49,31 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 <br/>
 
-[![University Retail System](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=University-Retail-System&theme=radical&description_lines_count=2)](https://github.com/Ivan-8a/University-Retail-System)
+####  **University Retail System**
+> *Inventory management system for university retail stores.*
 
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=Task-Manager-PWA&theme=radical)](https://github.com/Ivan-8a/Task-Manager-PWA)
-###  GitHub Stats
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-8a&layout=compact&theme=radical)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- **Description:** Relational database design and backend logic for inventory tracking.
+- **Key Feature:** Containerized environment using Docker and mock database for testing.
+- [💻 **View Code**](https://github.com/Ivan-8a/University-Retail-System)
+
+<br/>
+####  **Task Manager PWA**
+> *Offline-first productivity application.*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+- **Description:** Progressive Web App (PWA) that works without internet connection.
+- **Key Feature:** LocalStorage sync and real-time updates with Firestore.
+- [🌐 **View Live Demo**](AQUI_PEGA_TU_LINK_DEL_DEMO_TASKMANAGER) | [💻 **View Code**](https://github.com/Ivan-8a/Task-Manager-PWA)
+
+---
+
 
 ###  Contact
 
