@@ -45,7 +45,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 - **Description:** A full-stack application handling secure payments and video content. Code is private for security.
 - **Key Feature:** Automated user enrollment via Stripe Webhooks in a secure environment.
-- [**View Code**](https://github.com/Ivan-8a/alter-ego)
+- [🌐 **View live demo**](https://alter-ego-xi.vercel.app/) | [**View Code**](https://github.com/Ivan-8a/alter-ego)
 
 <br/>
 
@@ -61,7 +61,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 - **Status:** 🔒 *Source code is confidential (University Property).*
 
 <br/>
-####  **Task Manager PWA**
+#### ✅ **Task Manager PWA**
 > *Offline-first productivity application.*
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -70,7 +70,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 - **Description:** Progressive Web App (PWA) that works without internet connection.
 - **Key Feature:** LocalStorage sync and real-time updates with Firestore.
-- [🌐 **View code**](https://pwa-react-todolist.vercel.app/) | [💻 **View Code**](https://github.com/Ivan-8a/Task-Manager-PWA)
+- [🌐 **View live demo**](https://pwa-react-todolist.vercel.app/) | [💻 **View Code**](https://github.com/Ivan-8a/Task-Manager-PWA)
 
 ---
 
