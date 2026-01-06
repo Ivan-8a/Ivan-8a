@@ -35,7 +35,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 ###  Featured Projects
 
-[![AlterEgo LMS](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=AlterEgo&theme=radical&description_lines_count=2)](https://github.com/Ivan-8a/AlterEgo)
+[![AlterEgo LMS](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=alter-ego&theme=radical&description_lines_count=2)](https://github.com/Ivan-8a/alter-ego)
 
 [![University Retail System](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=University-Retail-System&theme=radical&description_lines_count=2)](https://github.com/Ivan-8a/University-Retail-System)
 
