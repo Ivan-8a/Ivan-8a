@@ -45,20 +45,20 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 - **Description:** A full-stack application handling secure payments and video content. Code is private for security.
 - **Key Feature:** Automated user enrollment via Stripe Webhooks in a secure environment.
-- [🌐 **View Live Demo**](https://github.com/Ivan-8a/alter-ego)
+- [**View Code**](https://github.com/Ivan-8a/alter-ego)
 
 <br/>
 
-####  **University Retail System**
-> *Inventory management system for university retail stores.*
+#### 🏢 **University Retail System (Internship)**
+> *Internal inventory management system for university retail stores.*
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- **Description:** Relational database design and backend logic for inventory tracking.
-- **Key Feature:** Containerized environment using Docker and mock database for testing.
-- [💻 **View Code**](https://github.com/Ivan-8a/University-Retail-System)
+- **Description:** Developed the backend logic and database schema for the University of Colima's retail store.
+- **Key Achievement:** Designed a complex relational database and containerized the development environment using Docker.
+- **Status:** 🔒 *Source code is confidential (University Property).*
 
 <br/>
 ####  **Task Manager PWA**
@@ -70,7 +70,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 - **Description:** Progressive Web App (PWA) that works without internet connection.
 - **Key Feature:** LocalStorage sync and real-time updates with Firestore.
-- [🌐 **View Live Demo**](AQUI_PEGA_TU_LINK_DEL_DEMO_TASKMANAGER) | [💻 **View Code**](https://github.com/Ivan-8a/Task-Manager-PWA)
+- [🌐 **View code**](https://pwa-react-todolist.vercel.app/) | [💻 **View Code**](https://github.com/Ivan-8a/Task-Manager-PWA)
 
 ---
 
