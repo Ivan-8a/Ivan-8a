@@ -45,7 +45,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 - **Description:** A full-stack application handling secure payments and video content. Code is private for security.
 - **Key Feature:** Automated user enrollment via Stripe Webhooks in a secure environment.
-- [🌐 **View Live Demo**](AQUI_PEGA_TU_LINK_DE_VERCEL_ALTEREGO)
+- [🌐 **View Live Demo**](https://github.com/Ivan-8a/alter-ego)
 
 <br/>
 
