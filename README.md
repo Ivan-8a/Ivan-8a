@@ -35,7 +35,19 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 ###  Featured Projects
 
-[![alter-ego](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=alter-ego&theme=radical&description_lines_count=2)](https://github.com/Ivan-8a/alter-ego)
+#### 🔒 **AlterEgo | LMS Platform (MVP)**
+> *A custom course platform focusing on UX and monetization.*
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+- **Description:** A full-stack application handling secure payments and video content. Code is private for security.
+- **Key Feature:** Automated user enrollment via Stripe Webhooks in a secure environment.
+- [🌐 **View Live Demo**](AQUI_PEGA_TU_LINK_DE_VERCEL_ALTEREGO)
+
+<br/>
 
 [![University Retail System](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=University-Retail-System&theme=radical&description_lines_count=2)](https://github.com/Ivan-8a/University-Retail-System)
 
