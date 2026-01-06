@@ -39,7 +39,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 
 [![University Retail System](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=University-Retail-System&theme=radical&description_lines_count=2)](https://github.com/Ivan-8a/University-Retail-System)
 
-[![Task Manager PWA](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=PWA-React-Todolist&theme=radical)](https://github.com/Ivan-8a/PWA-React-Todolist)
+[![Task Manager PWA](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-8a&repo=Task-Manager-PWA&theme=radical)](https://github.com/Ivan-8a/PWA-React-Todolist)
 
 ###  GitHub Stats
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-8a&layout=compact&theme=radical)
