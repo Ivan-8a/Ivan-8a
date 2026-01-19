@@ -43,7 +43,7 @@ I have practical experience creating **RESTful APIs**, integrating payment gatew
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-- **Description:** A full-stack application handling secure payments and video content. Code is private for security.
+- **Description:** A full-stack application handling secure payments and video content.
 - **Key Feature:** Automated user enrollment via Stripe Webhooks in a secure environment.
 - [🌐 **View live demo**](https://alter-ego-xi.vercel.app/) | [**View Code**](https://github.com/Ivan-8a/alter-ego)
 
